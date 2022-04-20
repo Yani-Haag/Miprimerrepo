@@ -1,1 +1,1 @@
-console.log("mi primer comit")
+console.log("mi primer comit, es magico");
